@@ -1,3 +1,19 @@
+dde-session-shell (6.8.0) unstable; urgency=medium
+
+  * feat: add archlinux build
+  * chore: Sync by
+  * chore: pass reuse check
+  * fix: dependencies on archlinux
+  * fix: archlinux build ci
+  * chore: suppress compile warnings
+  * chore: skip unnecessary automoc
+  * chore: add issue template
+  * fix: display error of user type
+  * ci(test): enable coordinated group releases
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:29 +0800
+
 dde-session-shell (6.0.6) unstable; urgency=medium
 
   [ TagBuilder ]
